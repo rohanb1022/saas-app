@@ -1,10 +1,12 @@
+import React from 'react'
 
-const Companions = () => {
+const CompanionLibrary = () => {
   return (
     <div>
-      Companions
+      
     </div>
   )
 }
 
-export default Companions
+export default CompanionLibrary
+
